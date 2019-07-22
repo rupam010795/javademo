@@ -3,7 +3,7 @@ public class Sample_String {
         //declare the String as an object S1 S2
         String S1 = "Hello Java String Method";
         String S2 = "rupam"
-        String s3="aaa"
+       
         //length() method of String returns the length of a String S1.
         long length = S1.length();
         System.out.println("Length of a String is: " + length);
